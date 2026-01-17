@@ -6,6 +6,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=luisdiaz327&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdiaz327&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+![luisdiaz327](https://count.getloli.com/@luisdiaz327?name=luisdiaz327&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=585)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=luisdiaz327&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
